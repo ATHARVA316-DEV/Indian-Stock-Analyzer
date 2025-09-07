@@ -195,21 +195,29 @@ The application includes robust error handling:
 - **Return on Equity (ROE)**: Measures profitability efficiency
 - **Debt to Equity**: Assesses financial leverage and risk
 - **Stability Indicators**: Focus on consistent performers
+- <img width="720" height="724" alt="image" src="https://github.com/user-attachments/assets/c2e6013d-364f-4e55-b6b6-ff4e2cc055b0" />
+
 
 ### Growth Investing Metrics  
 - **Revenue Growth**: Year-over-year revenue increase
 - **Market Expansion**: Companies with expanding business
 - **Future Potential**: High-growth trajectory stocks
+- <img width="607" height="877" alt="image" src="https://github.com/user-attachments/assets/56ff5cce-1ced-41f5-bd9d-dc909a77bbdf" />
+
 
 ### Value Investing Metrics
 - **P/E Ratio**: Price-to-Earnings valuation metric
 - **P/B Ratio**: Price-to-Book value assessment
 - **Undervaluation**: Stocks trading below intrinsic value
+- <img width="602" height="872" alt="image" src="https://github.com/user-attachments/assets/e6e53758-94a6-47dc-ad66-3059a20f0be8" />
+
 
 ### Technical Momentum Metrics
 - **Moving Averages**: Trend direction indicators
 - **RSI**: Momentum and overbought/oversold conditions
 - **Price Action**: Current price relative to averages
+- <img width="601" height="878" alt="image" src="https://github.com/user-attachments/assets/7dcac893-083a-4534-b64b-fabc43b67989" />
+
 
 ## 🚨 Important Disclaimers
 
@@ -365,8 +373,6 @@ If you find this project helpful, please consider giving it a star ⭐ on GitHub
 <div align="center">
 
 **Made by [ATHARVA316-DEV](https://github.com/ATHARVA316-DEV)**
-
-*Happy Investing! 📈*
 
 </div>
 
